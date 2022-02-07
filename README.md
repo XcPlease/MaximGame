@@ -1,3 +1,3 @@
-# juliegraphics
-A small project // (website)
-idan#1567
+# MaximRun
+A small project // (Game & Website)
+
